@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "nama": "kaos hitam",
+            "harga": "10002.00",
+            "gambar": "http://test-front.rukun.com/images/1644304832.jpg",
+            "pajaks": [
+                {
+                    "id": 1,
+                    "nama": "pajak toko",
+                    "rate": "10%"
+                },
+                {
+                    "id": 2,
+                    "nama": "pajak hpp",
+                    "rate": "5%"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "nama": "baju polos 2",
+            "harga": "1000.00",
+            "gambar": "http://test-front.rukun.com/images/1644311857.png",
+            "pajaks": [
+                {
+                    "id": 2,
+                    "nama": "pajak hpp",
+                    "rate": "5%"
+                },
+                {
+                    "id": 1,
+                    "nama": "pajak toko",
+                    "rate": "10%"
+                }
+            ]
+        }
+    ]
+}
